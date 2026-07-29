@@ -8,4 +8,8 @@
 | [uppbeat](https://uppbeat.io/sfx)                                                                                        | free sound effects        |
 | twitter hashtags |  |
 | google trends | |
+ <br>
  
+## hashtags
+`#jejemonmemes`
+`#schoolmemes`
