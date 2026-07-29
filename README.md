@@ -8,6 +8,10 @@
 | [uppbeat](https://uppbeat.io/sfx)                                                                                        | free sound effects        |
 | twitter hashtags |  |
 | google trends | |
+<br>
+
+![alt text](./assets/Screenshot%202025-07-15%20223730.png)
+
  <br>
  
 ## hashtags
